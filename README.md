@@ -5,4 +5,5 @@ This repository is for students that want to learn basic python programming, the
 Note that this is not mine, I merely tried the problems out and type my own solutions to this repository.
 
 ### Requirements
-python 3+ (I used version `Python 2.7`)
+: 
+* [Python](https://www.python.org/) (3+) installed on MacOS
